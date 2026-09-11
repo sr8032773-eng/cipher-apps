@@ -1,0 +1,6 @@
+{
+  "name": "Cipher - Private App Store",
+  "description": "Secure zero-trust private app store with access request gatekeeping and single-use self-destructing download tokens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

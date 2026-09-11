@@ -1,0 +1,9 @@
+name = "cipher-store"
+compatibility_date = "2026-09-11"
+pages_build_output_dir = "dist"
+
+# After creating the D1 database, replace the placeholder database_id below.
+[[d1_databases]]
+binding = "DB"
+database_name = "cipher-db"
+database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
