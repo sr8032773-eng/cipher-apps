@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center music note emblem with soundwave bars -->
+    <!-- Equalizer soundwave bar 1 -->
+    <path
+        android:pathData="M27,58 L27,50 C27,48.5 29,48.5 29,50 L29,58 C29,59.5 27,59.5 27,58 Z"
+        android:fillColor="#FF9E44" />
+    <!-- Equalizer soundwave bar 2 -->
+    <path
+        android:pathData="M33,65 L33,43 C33,41.5 35,41.5 35,43 L35,65 C35,66.5 33,66.5 33,65 Z"
+        android:fillColor="#FFB366" />
+    <!-- Equalizer soundwave bar 3 -->
+    <path
+        android:pathData="M39,70 L39,38 C39,36.5 41,36.5 41,38 L41,70 C41,71.5 39,71.5 39,70 Z"
+        android:fillColor="#FFA07A" />
+
+    <!-- Core Musical Note & Beamed Flag -->
+    <path
+        android:pathData="M48,34 L73,28 C74.5,27.6 76,28.7 76,30.3 L76,55.5 C74.2,54.5 72,54 69.5,54 C64.8,54 61,56.7 61,60 C61,63.3 64.8,66 69.5,66 C74.2,66 78,63.3 78,60 L78,35 L52,41 L52,63.5 C50.2,62.5 48,62 45.5,62 C40.8,62 37,64.7 37,68 C37,71.3 40.8,74 45.5,74 C50.2,74 54,71.3 54,68 L54,36.2 C54,35 52.8,34 51.5,34.2 L48,34 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="37"
+                android:startY="28"
+                android:endX="78"
+                android:endY="74"
+                android:type="linear">
+                <item android:color="#FFB347" android:offset="0.0" />
+                <item android:color="#FF7043" android:offset="0.4" />
+                <item android:color="#E040FB" android:offset="0.8" />
+                <item android:color="#7C4DFF" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Equalizer soundwave bar 4 -->
+    <path
+        android:pathData="M83,64 L83,44 C83,42.5 85,42.5 85,44 L85,64 C85,65.5 83,65.5 83,64 Z"
+        android:fillColor="#C084FC" />
+    <!-- Equalizer soundwave bar 5 -->
+    <path
+        android:pathData="M89,58 L89,50 C89,48.5 91,48.5 91,50 L91,58 C91,59.5 89,59.5 89,58 Z"
+        android:fillColor="#A855F7" />
+</vector>

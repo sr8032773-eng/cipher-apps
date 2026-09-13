@@ -1,0 +1,6 @@
+{
+  "name": "Raaga",
+  "description": "A modern, intuitive music player featuring high-fidelity playback, smart playlists, custom equalizer presets, and curated raga collections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
